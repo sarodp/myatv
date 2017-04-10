@@ -6,13 +6,14 @@ CREDITS:
  (c) pa3bwe, pa3bwe@amsat.org  
  this program maybe freely used and distributed for amateur (ham) purposes  
  a qsl card is appreciated!   
+  
 SOURCES:      
  atv2.py -sound added  
  atv3.py -added possibility to use switch to scroll through images  
              two switches connected to header pin 24+26 (GPIO8 + GPIO7) and gnd  
  		      see http://tinyurl.com/6wq9l86  
 		      added cmd line call to amixer to increase sound level  
-  
+ tstptn00.py -another source  
 ---  
     
 ตัวอย่างโปรแกรม Pygame  
@@ -22,6 +23,7 @@ SOURCES:
 ..เป็นแบบ negative edge trig พร้อมตั้งค่า debbounce ได้ด้วย  
 ..อินพุทรับค่าปุ่มกด จากคีย์บอร์ดได้ด้วย  
 ..เอาท์พุทเป็นสัญญาณออกจอทีวี กำหนดด้วยไฟล์ /boot/config.txt  
+  
 ---  
 ## วิธีติดตั้งแทดสอบโปรแกรมเบื้องต้น  
 $ cd ~  
