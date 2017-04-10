@@ -9,7 +9,7 @@ CREDITS:
  (c) pa3bwe, pa3bwe@amsat.org  
  this program maybe freely used and distributed for amateur (ham) purposes  
  a qsl card is appreciated!   
- 
+ SOURCES:  
  atv2.py -sound added  
  atv3.py -added possibility to use switch to scroll through images  
              two switches connected to header pin 24+26 (GPIO8 + GPIO7) and gnd  
