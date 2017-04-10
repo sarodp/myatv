@@ -13,7 +13,7 @@ SOURCES:
  		      see http://tinyurl.com/6wq9l86  
 		      added cmd line call to amixer to increase sound level  
   
---
+---  
     
 ตัวอย่างโปรแกรม Pygame  
 ปรับแต่งจากโปรแกรม atv3.py ตามลิงค์ข้างต้น   
